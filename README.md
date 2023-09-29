@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# StudyBuddy
+# ConnectPlus
 </div>
 
 ### Cloning the repository
